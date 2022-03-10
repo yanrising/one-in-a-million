@@ -7,6 +7,7 @@ This list is the result when the following steps are executed:
 3. Cap accounts with big balances to 300,000 ETH.  
 4. Remove addresses that are smart contracts.  
 
+Decimals: 6
 Count: 1,031,203 addresses  
 Min: 1.000000 ETH  
 Cap: 300,000.000000 ETH  
